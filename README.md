@@ -38,7 +38,7 @@ these apps and the zip file above
   - Creating an Object Class
   - Using the prototype of the Class Constructor
   - Extending JavaScript Objects
--	A Closer Look at JavaScript Functions
+- A Closer Look at JavaScript Functions
   - Functions with a Flexible Number of Arguments
   - Anonymous Functions
   - Passing Functions to Other Functions and Function Instance Methods
