@@ -7,7 +7,7 @@ Attendees will explore new features introduced in ECMAScript plus advanced topic
 
 All attendees must have strong experience developing web applications with JavaScript coding, libraries, and frameworks.
 
-## Technical Setup and Requirements and Class Files
+## Technical Setup and Requirements
 
 these apps and the zip file above
 
