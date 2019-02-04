@@ -11,8 +11,13 @@ All attendees must have strong experience developing web applications with JavaS
 
 ## Technical Setup and Requirements
 
-these apps and the zip file above
-
+- Windows, MacOS X, or Linux
+- Web or text editor of your choice
+- Web browsers - a recent version of one or more of the following:
+  - Google Chrome
+  - Mozilla Firefox
+  - Internet Explorer (9 or later)
+  - Safari (5 or later)
 
 ## Class Outline
 - Introduction
