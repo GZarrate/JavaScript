@@ -1,5 +1,5 @@
 # Advanced JavaScript and New Features
-2019 Esri Developer Summit - Pre-Summit Hands-on Training Mar 3-4, 2019
+**2019 Esri Developer Summit - Pre-Summit Hands-on Training Mar 3-4, 2019**
 
 Attendees will explore new features introduced in ECMAScript plus advanced topics in the JavaScript language, such as package managers, task runners, transpiling, and more.
 
@@ -9,8 +9,7 @@ All attendees must have strong experience developing web applications with JavaS
 
 ## Technical Setup and Requirements and Class Files
 
-
-
+these apps and the zip file above
 
 
 ## Class Outline
@@ -27,13 +26,13 @@ All attendees must have strong experience developing web applications with JavaS
   -	let vs var
   -	For ... of and For ... in
   -	Template strings and expressions
--	Event-Driven JavaScript
+- Event-Driven JavaScript
   - Tag-Based and Code-Based Event Handlers
   - Setting Up Event Listeners
-  -	Writing Event Callback Functions
--	Ajax Development
-  -	Creating the XMLHttpRequest Object
-  -	Managing Ajax Requests
+  - Writing Event Callback Functions
+- Ajax Development
+  - Creating the XMLHttpRequest Object
+  - Managing Ajax Requests
 - Object-Oriented JavaScript
   - Creating a Plain JavaScript Object
   - Creating an Object Class
