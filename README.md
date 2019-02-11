@@ -12,12 +12,11 @@ All attendees must have strong experience developing web applications with JavaS
 ## Technical Setup and Requirements
 
 - Windows, MacOS X, or Linux
-- Web or text editor of your choice
+- Web or text editor of your choice (Webstorm is recommended)
+- Node.JS at version 8+ (download at https://nodejs.org/dist/v11.9.0/node-v11.9.0-x64.msi)
 - Web browsers - a recent version of one or more of the following:
   - Google Chrome
   - Mozilla Firefox
-  - Internet Explorer (9 or later)
-  - Safari (5 or later)
 
 ## Class Outline
 - Introduction
