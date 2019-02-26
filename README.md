@@ -16,13 +16,13 @@ All downloads and installs must be done before class to ensure an on-time start.
 - Windows, MacOS X, or Linux
 - Web or text editor of your choice (Webstorm is recommended)
 - Node.JS at version 8+ (download at https://nodejs.org/dist/v11.9.0/node-v11.9.0-x64.msi)
-- Run npm install -g http-server`
+- Run `npm install -g http-server`
 - Web browsers - a recent version of one or more of the following:
   - Google Chrome
   - Mozilla Firefox
 
 ## Class Outline
-- Introduction`
+- Introduction
 - Quick JavaScript Recap
   -	Variables and Data Types
   -	Intrinsic JavaScript Objects (String, Array, Date, Math)
