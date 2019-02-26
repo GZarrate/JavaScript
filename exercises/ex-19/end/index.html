@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Exercise 19</title>
+
+</head>
+<body>
+
+<h2>Go to the console</h2>
+
+<script>
+
+  rollDice = () => Math.ceil(Math.random() * 6);
+
+  randomWait = () => Math.ceil(Math.random() * 1000);
+
+  createDice = () => new Promise((resolve) => {
+    setTimeout(() => resolve(rollDice()) , randomWait());
+  });
+
+  let dice1 = createDice();
+  let dice2 = createDice();
+  let dice3 = createDice();
+
+  dice1.then(d1 => console.log('Dice 1', d1));
+  dice2.then(d1 => console.log('Dice 2', d1));
+  dice3.then(d1 => console.log('Dice 3', d1));
+
+</script>
+</body>
+</html>
